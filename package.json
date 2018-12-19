@@ -1,0 +1,25 @@
+{
+  "name": "pilfer-package",
+  "version": "1.0.0",
+  "description": "Tiny command line utility for plucking fields from a JSON file",
+  "main": "./bin/pilfer-package.js",
+  "bin": {
+    "pilfer-package": "./bin/pilfer-package.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mismith/pilfer-package.git"
+  },
+  "keywords": [
+    "cli",
+    "package.json",
+    "node",
+    "javascript"
+  ],
+  "author": "Murray Smith <murray@mismith.info>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mismith/pilfer-package/issues"
+  },
+  "homepage": "https://github.com/mismith/pilfer-package#readme"
+}
