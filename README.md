@@ -5,7 +5,7 @@ Tiny command line utility for plucking fields from a JSON file
 
 ## Installation
 
-1. `npm install --save pilfer-package` or `yarn add pilfer-package`
+1. `npm install --save-dev pilfer-package` or `yarn add --dev pilfer-package`
 2. Add to your npm scripts, or use in the CLI directly
 
 
